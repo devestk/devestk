@@ -3,6 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo projetos.
 - 🎓 Estudando TECNICO no IF.
 - 🌱 Aprendendo mais sobre (C | C++ | JS).
+- 😎 Gordão bolinha.
 
 ## Minhas Skills
 
