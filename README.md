@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo projetos.
-- 🎓 Estudando TECNICO no IF.
+- 🎓 Estudando Informatica no IF.
 - 🌱 Aprendendo mais sobre (C | C++ | JS).
 
 ## Minhas Skills
