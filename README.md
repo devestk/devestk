@@ -1,12 +1,12 @@
-## Sobre mim
+# About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo projetos.
-- 🎓 Estudando Informatica no IF.
-- 🌱 Aprendendo mais sobre (C | C++ | JS).
+- 🤔 Exploring new technologies and developing projects.
+- 🎓 Studying IT at IF.
+- 🌱Learning more about (C | C++ | JS | TS).
 
-## Minhas Skills
+## My Skills
 
-**Linguagens**
+**Languages**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -16,13 +16,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Community-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
